@@ -6,7 +6,8 @@ Server for NFSHP10, Coded by everyone in the community :)
 My Biggest Appreciation for you, is if you want to contribute in any way. I will be very thankful if we can get autolog titles up and going again.
 
 # Current Hot Pursuit (2010) Situation
-No official statement was given by EA for shutting down the title, however since May 13th 2022 the servers are not functional. Is this another silent kill from EA or just simply a mistake? We do not know yet. However it is better to copy the server as soon as possible before EA gives us a official retirement statement.
+~~No official statement was given by EA for shutting down the title, however since May 13th 2022 the servers are not functional. Is this another silent kill from EA or just simply a mistake? We do not know yet. However it is better to copy the server as soon as possible before EA gives us a official retirement statement.~~
+Currently the servers are still up, but question is for how long? We need to log this game as soon as possible to maintain its online functionality.
 
 # How you can help us?
 If you were logging packets of NFSHP10 before, or you know how to code. Please fill out this google form and I will contact you shortly :)
